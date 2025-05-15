@@ -1,4 +1,4 @@
-![Capture d'écran 2025-05-15 212022](https://github.com/user-attachments/assets/019ac86e-0a28-45e7-a20f-ea46364593a6)# 💖 Ririeducat
+![Capture d'écran 2025-05-15 212022 ,Capture d'écran 2025-05-15 212022.png](https://github.com/user-attachments/assets/019ac86e-0a28-45e7-a20f-ea46364593a6)# 💖 Ririeducat
 
 A full-stack web application for students to sign up, browse courses & books, and manage their favorite courses — beautifully designed with a girl-friendly pastel theme 🌸.
 
